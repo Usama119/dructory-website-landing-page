@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Lekton';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lekton/v17/SZc63FDmLaWmWpBuXS3rtUI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lekton/v17/SZc43FDmLaWmWpBuWB3s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/lekton/v17/SZc73FDmLaWmWpBm4zj8kmLT.ttf) format('truetype');
+}
