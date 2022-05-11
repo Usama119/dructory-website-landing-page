@@ -5,7 +5,7 @@
     - You can adjust or customize this css according to your site design
     - Can be combined with popular css frameworks    
 */
-@import url('../../../../../fonts.googleapis.com/css%3Ffamily=Open+Sans:300,400,600,800.css'); /* default font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap'); /* default font */
 @import url("../ionicons/css/ionicons.min.css"); /* Icon support */
 
 

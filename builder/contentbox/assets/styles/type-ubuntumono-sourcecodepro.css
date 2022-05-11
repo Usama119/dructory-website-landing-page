@@ -1,5 +1,5 @@
-﻿@import url('../../../../../fonts.googleapis.com/css%3Ffamily=Ubuntu+Mono:400,700.css');
-@import url('../../../../../fonts.googleapis.com/css%3Ffamily=Source+Code+Pro:300,700.css');
+﻿@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;700&display=swap');
 
 .type-ubuntumono-sourcecodepro {
     font-family: 'Source Code Pro', monospace;
