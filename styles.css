@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.contactform {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.contact-container input {
+    color: rgb(0, 0, 0);
+    outline: none !important;
+    padding: 5px 25px;
+    font-size: 0.85em !important;
+    border: none !important;
+    margin: 0.6rem 0;
+    line-height: 2rem;
+    font-family: Arial, sans-serif;
+}
+
+@media screen and (min-width: 1024px) {
+    .contact-container {
+        width: 70%;
+    }
+}
