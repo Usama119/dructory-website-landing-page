@@ -13,7 +13,7 @@ html {
     width: 100%;
 }
 
-.contact-container input {
+.contact-container input , .contact-container textarea {
     color: rgb(0, 0, 0);
     outline: none !important;
     padding: 5px 25px;
@@ -28,4 +28,8 @@ html {
     .contact-container {
         width: 70%;
     }
+}
+.home-container{
+    margin-top: 0 !important;
+    padding-top: 0 !important;
 }
