@@ -7,35 +7,32 @@ html {
     
 }
 .navbar .logo{
-<<<<<<< HEAD
+
     width: 120px;
    /* height: 90px; */
 }
 .navbar{
     color:#ffff;
     font-family: math;
-=======
-    width: 150px;
    height: auto;
    
 }
 .navbar{
     color:#ffff;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
->>>>>>> a800e6849c930a5961b35cc28af09a3757fef974
-    text-shadow: 0 0 black;
+     text-shadow: 0 0 black;
        
 }
 .navbarNav {
-    color: #ffff;
+    color: #ffff;   
     
 }
-<<<<<<< HEAD
-=======
+
+
 .collapse navbar-collapse{
     margin-left : 50px;
-}
->>>>>>> a800e6849c930a5961b35cc28af09a3757fef974
+  } */
+
  ul li::after{
     content: '';
     height: 2px;
@@ -50,7 +47,7 @@ html {
     color: #ffff;
 }
 
-  .navbar ul li::after{
+   .navbar ul li::after{
     content: '';
     height: 3%;
     top: 0;
@@ -61,12 +58,12 @@ html {
     left: 0;
     bottom: -10px;
     transition: all .5s ease 0;
-}
+} 
  .navbar ul li:hover::after{
     width: 100%;
 
 }
-<<<<<<< HEAD
+
 button .btn btn{
 
     background-color: rgb(255, 193, 7);
@@ -75,17 +72,15 @@ button .btn btn{
 
 }
 
-=======
- 
 
-.navbar-dark .navbar-toggler{
+/* .navbar-dark .navbar-toggler{
     
-}
+} */
 
-.navbar-toggler:focus{
+/* .navbar-toggler:focus{
 
-}
->>>>>>> a800e6849c930a5961b35cc28af09a3757fef974
+} */
+
 .contactform {
     display: flex;
     justify-content: center;
